@@ -1,0 +1,6 @@
+{
+  "name": "Ferrari Dubai — Sheikh Zayed Road Flagship",
+  "description": "Official Ferrari flagship showroom and Tailor Made Atelier on Sheikh Zayed Road, Dubai. Explore the Maranello fleet, launch an interactive virtual tour, and schedule a private viewing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
